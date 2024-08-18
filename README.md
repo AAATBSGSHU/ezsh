@@ -4,9 +4,6 @@ If you want the script to be the most effective, add these lines to your `.zshrc
 
 ```
 # AAATBSGSHU
-```
-
-```
 alias ezsh='/location/of/your/shellscript/script.sh'
 ```
 
