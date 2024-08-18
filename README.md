@@ -4,7 +4,7 @@ If you want the script to be the most effective, add these lines to your `.zshrc
 
 ```
 # AAATBSGSHU
-alias ezsh='/location/of/your/shellscript/script.sh'
+alias ezsh='/location/of/your/script/ezsh.sh'
 ```
-
+To then run it just use ```ezsh /location/of/the/script/you/want/to/intialize/script.sh```
 
